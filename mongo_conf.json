@@ -1,0 +1,6 @@
+{
+  "address": "sven.mongo.persistor",
+  "port": 27017,
+  "db_name": "sven_db"
+}
+

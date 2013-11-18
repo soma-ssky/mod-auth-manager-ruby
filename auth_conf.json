@@ -1,0 +1,7 @@
+{
+    "address": "sven.auth",
+    "user_collection": "users",
+    "persistor_address": "sven.mongo.persistor",
+    "session_timeout": 900000
+}
+
